@@ -1,6 +1,6 @@
 # Chat
 
-REpositório da diciplina de Front-end 
+Repositório da diciplina de Front-End 
 
 Desenvolvimento de HTML e CSS
 
